@@ -1,6 +1,6 @@
 MarsRebirth 隐私政策
 更新及生效日期：2026年11月11日
-适用版本：Android 0.1.1 试玩版
+适用版本：Android 0.1.2 试玩版
 运营主体：CandleStudio
 联系邮箱：1003656279@qq.com
 
@@ -37,4 +37,4 @@ Android 包声明网络访问、网络与 Wi-Fi 状态、保持唤醒、音频�
 功能或信息处理方式发生变化时，我们会更新本政策及生效日期；涉及新增个人信息处理的，将按要求另行告知并征得必要同意。
 运营主体：CandleStudio
 联系邮箱：1003656279@qq.com
-在线政策：https://marsrebirth-candlestudio-privacy.swifthazel8.chatgpt.site/
+在线政策：https://candle98.github.io/marsrebirth-privacy/
